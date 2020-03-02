@@ -2,3 +2,13 @@ body {
     background: rgb(37, 37, 37);
     color: rgb(74, 231, 74);
 }
+header {
+    background: rgb(80, 90, 84);
+    color: rgb(74, 231, 74);
+    padding: 5 15 0 15;
+}
+nav ul li {
+    display: inline-block;
+    color: rgb(74, 231, 74);
+    list-style: none;
+}
